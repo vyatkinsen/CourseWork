@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/course.dir/main.cpp.o CMakeFiles/course.dir/rkf45.cpp.o CMakeFiles/course.dir/quanc8.cpp.o CMakeFiles/course.dir/matrix.cpp.o CMakeFiles/course.dir/zeroin.cpp.o -o course 
